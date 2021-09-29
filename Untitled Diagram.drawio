@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-29T20:46:27.290Z" agent="5.0 (Windows)" etag="N8jPTkl-HoGkFPFyEmlR" version="15.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-29T21:14:22.921Z" agent="5.0 (Windows)" etag="CUwlbfwFrhe1TzioIx9L" version="15.3.8" type="github">
   <diagram id="CftRHJXDsFxkNAAALVWV" name="Page-1">
     <mxGraphModel dx="652" dy="350" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -113,16 +113,16 @@
           <mxGeometry y="30" width="180" height="130" as="geometry" />
         </mxCell>
         <mxCell id="GBUFSHoPUwX8bTnAvyFo-13" value="marquez : Boxeador" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;hachureGap=4;pointerEvents=0;fillColor=#6a00ff;strokeColor=#3700CC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="480" y="600" width="140" height="160" as="geometry" />
+          <mxGeometry x="480" y="600" width="190" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="GBUFSHoPUwX8bTnAvyFo-14" value="&lt;br&gt;&lt;div&gt;-nombre(): cadena&lt;/div&gt;&lt;div&gt;-estatura(): float&lt;/div&gt;&lt;div&gt;-edad(): int&lt;/div&gt;&lt;div&gt;-nacionaidad(): cadena&lt;/div&gt;&lt;div&gt;-peso(): float&lt;/div&gt;&lt;div&gt;&lt;div&gt;-tipoGuantes(): cadena&lt;/div&gt;&lt;div&gt;-protectorBucal(): Bolean&lt;/div&gt;&lt;div&gt;-botas(): cadena&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;br&gt;" style="html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];resizeWidth=1;" parent="GBUFSHoPUwX8bTnAvyFo-13" vertex="1">
-          <mxGeometry y="30" width="140" height="130" as="geometry" />
+        <mxCell id="GBUFSHoPUwX8bTnAvyFo-14" value="&lt;br&gt;&lt;div&gt;-nombre(): Juan Manuel Marquez&lt;br&gt;&lt;/div&gt;&lt;div&gt;-estatura(): 1.65&lt;/div&gt;&lt;div&gt;-edad(): 46&lt;/div&gt;&lt;div&gt;-nacionaidad(): Mexicano&lt;/div&gt;&lt;div&gt;-peso(): 55&lt;/div&gt;&lt;div&gt;&lt;div&gt;-tipoGuantes(): De boxeo&lt;br&gt;&lt;/div&gt;&lt;div&gt;-protectorBucal(): Si&lt;/div&gt;&lt;div&gt;-botas(): Botas de box&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];resizeWidth=1;" parent="GBUFSHoPUwX8bTnAvyFo-13" vertex="1">
+          <mxGeometry y="30" width="190" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="vlDcvicpiPsYSi_lNVD3-3" value="kobe : Basquetbolista" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="680" y="600" width="140" height="170" as="geometry" />
+        <mxCell id="vlDcvicpiPsYSi_lNVD3-3" value="butler : Basquetbolista" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;fillColor=#fa6800;strokeColor=#C73500;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="680" y="600" width="170" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="vlDcvicpiPsYSi_lNVD3-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-nombre(): cadena&lt;/div&gt;&lt;div&gt;-estatura(): float&lt;/div&gt;&lt;div&gt;-edad(): int&lt;/div&gt;&lt;div&gt;-nacionaidad(): cadena&lt;/div&gt;&lt;div&gt;-peso(): float&lt;/div&gt;&lt;div&gt;&lt;div&gt;-equipo(): cadena&lt;/div&gt;&lt;div&gt;-dorsal(): int&lt;/div&gt;&lt;div&gt;-tipoPlayera(): cadena&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];resizeWidth=1;" parent="vlDcvicpiPsYSi_lNVD3-3" vertex="1">
-          <mxGeometry y="30" width="140" height="140" as="geometry" />
+        <mxCell id="vlDcvicpiPsYSi_lNVD3-4" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;-nombre(): &lt;span&gt;Jimmy Butler III&lt;/span&gt;&lt;/div&gt;&lt;div&gt;-estatura(): 1.98&lt;/div&gt;&lt;div&gt;-edad(): int&lt;/div&gt;&lt;div&gt;-nacionaidad(): cadena&lt;/div&gt;&lt;div&gt;-peso(): float&lt;/div&gt;&lt;div&gt;&lt;div&gt;-equipo(): cadena&lt;/div&gt;&lt;div&gt;-dorsal(): int&lt;/div&gt;&lt;div&gt;-tipoPlayera(): cadena&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];resizeWidth=1;" parent="vlDcvicpiPsYSi_lNVD3-3" vertex="1">
+          <mxGeometry y="30" width="170" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
