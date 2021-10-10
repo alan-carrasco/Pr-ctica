@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-10T01:04:07.747Z" agent="5.0 (Windows)" etag="wNZ16MVbpD0oBIsiCMNR" version="15.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-10T01:40:06.148Z" agent="5.0 (Windows)" etag="R0B0qxBmF72sDo9DWuUA" version="15.5.0" type="github">
   <diagram id="5Y3ntDZS45OH6_1DTRIa" name="Page-1">
     <mxGraphModel dx="782" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,48 +17,28 @@
           <mxGeometry y="288" width="210" height="92" as="geometry" />
         </mxCell>
         <mxCell id="IXgBJrrSv9OOtjirjggk-14" value="Empleados" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="99" width="230" height="500" as="geometry" />
+          <mxGeometry x="340" y="99" width="250" height="500" as="geometry" />
         </mxCell>
         <mxCell id="IXgBJrrSv9OOtjirjggk-15" value="&amp;nbsp;&amp;nbsp;&amp;nbsp; -String nombre;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;-int edad;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;-String nacionalidad;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;-String curp;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;-String empresa;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;-boolean discapacidad;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;-String rfc;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;-boolean afore;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;-String puesto;" style="html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];resizeWidth=1;" vertex="1" parent="IXgBJrrSv9OOtjirjggk-14">
-          <mxGeometry y="30" width="230" height="180" as="geometry" />
+          <mxGeometry y="30" width="250" height="180" as="geometry" />
         </mxCell>
         <mxCell id="IXgBJrrSv9OOtjirjggk-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="IXgBJrrSv9OOtjirjggk-14">
-          <mxGeometry y="210" width="230" height="8" as="geometry" />
+          <mxGeometry y="210" width="250" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="IXgBJrrSv9OOtjirjggk-17" value="&lt;div&gt;Metodos&lt;/div&gt;&lt;div&gt;+setNombre(String nombre):&lt;br&gt;&lt;/div&gt;&lt;div&gt;+getNombre(): String&lt;/div&gt;&lt;div&gt;+setEdad(int edad)&lt;/div&gt;&lt;div&gt;+getEdad(): int&lt;/div&gt;&lt;div&gt;+setNacionalidad(String nacionalidad):&lt;/div&gt;&lt;div&gt;+getNacionalidad: String&lt;/div&gt;&lt;div&gt;+setCurp(String curp):&lt;/div&gt;&lt;div&gt;+getCurp(): String&lt;/div&gt;&lt;div&gt;+setEmpresa(String empresa);&lt;br&gt;&amp;nbsp;+getEmpresa(): String&lt;br&gt;&amp;nbsp;&amp;nbsp; ++setDiscapacidad(boolean discapacidad)&lt;br&gt;&amp;nbsp;+getDiscapacidad(): boolean&lt;br&gt;+setRfc(String rfc)&lt;/div&gt;&lt;div&gt;+getRfc(): String&lt;br&gt;+setAfore(boolean afore)&lt;/div&gt;&lt;div&gt;+getAfore(): boolean&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp; +setPuesto(String puesto):&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; +getPuesto(): String&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];resizeWidth=1;" vertex="1" parent="IXgBJrrSv9OOtjirjggk-14">
-          <mxGeometry y="218" width="230" height="282" as="geometry" />
+        <mxCell id="IXgBJrrSv9OOtjirjggk-17" value="&lt;div&gt;Metodos&lt;/div&gt;&lt;div&gt;+setNombre(String nombre):&lt;br&gt;&lt;/div&gt;&lt;div&gt;+getNombre(): String&lt;/div&gt;&lt;div&gt;+setEdad(int edad)&lt;/div&gt;&lt;div&gt;+getEdad(): int&lt;/div&gt;&lt;div&gt;+setNacionalidad(String nacionalidad):&lt;/div&gt;&lt;div&gt;+getNacionalidad: String&lt;/div&gt;&lt;div&gt;+setCurp(String curp):&lt;/div&gt;&lt;div&gt;+getCurp(): String&lt;/div&gt;&lt;div&gt;+setEmpresa(String empresa);&lt;br&gt;&amp;nbsp;+getEmpresa(): String&lt;br&gt;&amp;nbsp;&amp;nbsp; +setDiscapacidad(boolean discapacidad)&lt;br&gt;&amp;nbsp;+getDiscapacidad(): boolean&lt;br&gt;+setRfc(String rfc)&lt;/div&gt;&lt;div&gt;+getRfc(): String&lt;br&gt;+setAfore(boolean afore)&lt;/div&gt;&lt;div&gt;+getAfore(): boolean&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp; +setPuesto(String puesto):&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; +getPuesto(): String&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];resizeWidth=1;" vertex="1" parent="IXgBJrrSv9OOtjirjggk-14">
+          <mxGeometry y="218" width="250" height="282" as="geometry" />
         </mxCell>
         <mxCell id="IXgBJrrSv9OOtjirjggk-26" value="VehiculosTerrestres" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="99" width="170" height="268" as="geometry" />
+          <mxGeometry x="630" y="99" width="240" height="450" as="geometry" />
         </mxCell>
         <mxCell id="IXgBJrrSv9OOtjirjggk-27" value="&lt;span style=&quot;white-space: pre&quot;&gt;    &lt;/span&gt;&amp;nbsp;-String llantas;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;- String color;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;- boolean frenos;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;- boolean espejos;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;- String marca;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;- String modelo;&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;- boolean pedales;" style="html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];resizeWidth=1;" vertex="1" parent="IXgBJrrSv9OOtjirjggk-26">
-          <mxGeometry y="30" width="170" height="160" as="geometry" />
+          <mxGeometry y="30" width="240" height="160" as="geometry" />
         </mxCell>
         <mxCell id="IXgBJrrSv9OOtjirjggk-28" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="IXgBJrrSv9OOtjirjggk-26">
-          <mxGeometry y="190" width="170" height="8" as="geometry" />
+          <mxGeometry y="190" width="240" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="IXgBJrrSv9OOtjirjggk-29" value="internal structure" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];resizeWidth=1;" vertex="1" parent="IXgBJrrSv9OOtjirjggk-26">
-          <mxGeometry y="198" width="170" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="IXgBJrrSv9OOtjirjggk-30" value="" style="swimlane;fontStyle=1;align=center;verticalAlign=top;horizontal=1;startSize=0;collapsible=0;marginBottom=0;html=1;strokeColor=none;fillColor=none;" vertex="1" parent="IXgBJrrSv9OOtjirjggk-26">
-          <mxGeometry y="218" width="170" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="IXgBJrrSv9OOtjirjggk-31" value="instance2" style="html=1;align=center;verticalAlign=middle;rotatable=0;" vertex="1" parent="IXgBJrrSv9OOtjirjggk-30">
-          <mxGeometry width="80" height="30" relative="1" as="geometry">
-            <mxPoint x="30" y="10" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="IXgBJrrSv9OOtjirjggk-32" value="Instance1" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="660" width="140" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="IXgBJrrSv9OOtjirjggk-38" value="Instance1" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="640" width="140" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="IXgBJrrSv9OOtjirjggk-40" value="Instance1" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="480" width="140" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="IXgBJrrSv9OOtjirjggk-41" value="slot1" style="html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];resizeWidth=1;" vertex="1" parent="IXgBJrrSv9OOtjirjggk-40">
-          <mxGeometry y="30" width="140" height="110" as="geometry" />
+        <mxCell id="IXgBJrrSv9OOtjirjggk-29" value="&lt;div&gt;Metodos &lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp; + setLlantas(String llantas)&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;+getLlantas(): String&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;+setColor(String color):&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;+getColor(): String&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;+setFrenos(boolean frenos):&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;+getFrenos(): boolean&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;+setEspejos(boolean espejos):&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;+getEspejos(): boolean&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;+setMarca(String marca):&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;+getMarca(): String &amp;nbsp;&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;+setModelo(String modelo):&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;+getModelo() String: &amp;nbsp;&amp;nbsp; &lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;+setPedales(boolean pedales):&lt;br&gt;&amp;nbsp;&amp;nbsp; &amp;nbsp;+getPedales(): boolean&lt;br&gt;&lt;/div&gt;" style="html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;rotatable=0;points=[[0,0.5],[1,0.5]];resizeWidth=1;" vertex="1" parent="IXgBJrrSv9OOtjirjggk-26">
+          <mxGeometry y="198" width="240" height="252" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
