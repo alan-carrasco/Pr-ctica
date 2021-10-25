@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-24T20:57:10.245Z" agent="5.0 (Windows)" etag="OwMJ_HpxYsR92eQ5aO2t" version="15.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-25T04:53:31.419Z" agent="5.0 (Windows)" etag="u5bAY4dxnR-iE_047vfh" version="15.5.9" type="github">
   <diagram id="2QnwUB2ClqmYAk1SB9Mb" name="Page-1">
     <mxGraphModel dx="2715" dy="2198" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -94,7 +94,7 @@
         <mxCell id="I9A92WywnePdPpcuGTqa-67" value="&lt;div style=&quot;font-size: 24px;&quot;&gt;Metodos&lt;/div&gt;+Entregas(int horaEntrega, int tipoEntrega, int costoEntrega, String ratreoEntrega);" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1" vertex="1" parent="I9A92WywnePdPpcuGTqa-63">
           <mxGeometry y="293" width="849" height="122" as="geometry" />
         </mxCell>
-        <mxCell id="I9A92WywnePdPpcuGTqa-68" value="Entregas" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Comic Sans MS;fontSize=24;" vertex="1" parent="1">
+        <mxCell id="I9A92WywnePdPpcuGTqa-68" value="Usuarios" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=55;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Comic Sans MS;fontSize=24;" vertex="1" parent="1">
           <mxGeometry x="1490" y="233" width="849" height="415" as="geometry" />
         </mxCell>
         <mxCell id="I9A92WywnePdPpcuGTqa-69" value="attributes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Comic Sans MS;fontSize=24;fontStyle=1" vertex="1" parent="I9A92WywnePdPpcuGTqa-68">
