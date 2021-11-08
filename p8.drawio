@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-08T18:43:53.375Z" agent="5.0 (Windows)" etag="BBuejSfQzLiws6RTSy2c" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-08T22:52:16.854Z" agent="5.0 (Windows)" etag="Dns2nWPoYDKQH-hcoG53" version="15.7.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="920" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="418" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -113,15 +113,24 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="g2fZXSvOFnhYVXdryVU--17" value="Gerente" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="642" width="160" height="70" as="geometry">
+          <mxGeometry x="500" y="642" width="330" height="218" as="geometry">
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g2fZXSvOFnhYVXdryVU--18" value="Salary" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--17">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        <mxCell id="g2fZXSvOFnhYVXdryVU--18" value="                Atributos" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--17">
+          <mxGeometry y="26" width="330" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="g2fZXSvOFnhYVXdryVU--25" value="+double presupuesto" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#99FF33;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--17">
+          <mxGeometry y="50" width="330" height="20" as="geometry" />
         </mxCell>
         <mxCell id="g2fZXSvOFnhYVXdryVU--19" value="" style="line;html=1;strokeWidth=1;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--17">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
+          <mxGeometry y="70" width="330" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="g2fZXSvOFnhYVXdryVU--23" value="Métodos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#99FF33;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--17">
+          <mxGeometry y="78" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="g2fZXSvOFnhYVXdryVU--24" value="&lt;div&gt;+Gerente();&lt;/div&gt;&lt;div&gt;+double asignarPresupuesto(double porcentaje);&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+void trabajar();&lt;/div&gt;&lt;div&gt;+String toString()&lt;/div&gt;&lt;div&gt;+void pagarsueldo(Empleado e);&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#99FF33;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--17">
+          <mxGeometry y="98" width="330" height="90" as="geometry" />
         </mxCell>
         <mxCell id="g2fZXSvOFnhYVXdryVU--20" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="160" relative="1" as="geometry">
