@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T04:52:44.014Z" agent="5.0 (Windows)" etag="gSanAQi7EmX1t4ulmelF" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T05:12:55.276Z" agent="5.0 (Windows)" etag="KBhtGQCqd-P6VwBQU8M_" version="15.7.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1202" dy="494" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1763" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -106,7 +106,7 @@
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g2fZXSvOFnhYVXdryVU--14" value="                        Atributos" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--13">
+        <mxCell id="g2fZXSvOFnhYVXdryVU--14" value="                     Atributos" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontColor=#000000;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--13">
           <mxGeometry y="26" width="218" height="26" as="geometry" />
         </mxCell>
         <mxCell id="g2fZXSvOFnhYVXdryVU--28" value="- String proyecto;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--13">
@@ -135,7 +135,7 @@
             <mxRectangle x="340" y="380" width="170" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="g2fZXSvOFnhYVXdryVU--18" value="                                         Atributos" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--17">
+        <mxCell id="g2fZXSvOFnhYVXdryVU--18" value="                                        Atributos" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--17">
           <mxGeometry y="26" width="330" height="24" as="geometry" />
         </mxCell>
         <mxCell id="g2fZXSvOFnhYVXdryVU--25" value="&lt;div&gt;+double presupuesto&lt;/div&gt;&lt;div&gt;-float salario&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--17">
