@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-11-09T05:12:55.276Z" agent="5.0 (Windows)" etag="KBhtGQCqd-P6VwBQU8M_" version="15.7.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-09T05:37:22.879Z" agent="5.0 (Windows)" etag="tHtBhunZAARcV2vHickc" version="15.7.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1763" dy="649" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -147,7 +147,7 @@
         <mxCell id="g2fZXSvOFnhYVXdryVU--23" value="Métodos" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--17">
           <mxGeometry y="88" width="330" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="g2fZXSvOFnhYVXdryVU--24" value="&lt;div&gt;+Gerente();&lt;/div&gt;&lt;div&gt;+double asignarPresupuesto(double porcentaje);&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+void trabajar();&lt;/div&gt;&lt;div&gt;+String toString()&lt;/div&gt;&lt;div&gt;+void pagarsueldo(Empleado e);&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--17">
+        <mxCell id="g2fZXSvOFnhYVXdryVU--24" value="&lt;div&gt;+Gerente();&lt;/div&gt;&lt;div&gt;+double asignarPresupuesto(double porcentaje);&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+void trabajar();&lt;/div&gt;&lt;div&gt;+String toString()&lt;/div&gt;&lt;div&gt;+void pagarsueldo(Empleado e, double salario);&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#000000;" vertex="1" parent="g2fZXSvOFnhYVXdryVU--17">
           <mxGeometry y="108" width="330" height="90" as="geometry" />
         </mxCell>
         <mxCell id="g2fZXSvOFnhYVXdryVU--20" value="" style="endArrow=block;endSize=10;endFill=0;shadow=0;strokeWidth=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;fillColor=#0050ef;strokeColor=#001DBC;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
